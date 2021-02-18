@@ -1,0 +1,10 @@
+.productos{
+    display: flex;
+    flex-direction: column;
+}
+
+h3{
+    text-transform: uppercase;
+    background-color: lightgray;
+    padding: 10px;
+}
